@@ -1,6 +1,6 @@
 ###  My digital nest
 
-The University of Tulsa Presidential Scholar | CS & French & University of Tulsa | USAPPS Core Committee 2024
+The University of Tulsa Presidential Scholar | CS & French & University of Tulsa
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AimanFariz&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanfariz&langs_count=5&theme=tokyonight)]()
