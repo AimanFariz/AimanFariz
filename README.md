@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my digital world
+
+The University of Tulsa Presidential Scholar | CS & French & University of Tulsa | USAPPS Core Committee 2024
 
 <!--
 **AimanFariz/AimanFariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
