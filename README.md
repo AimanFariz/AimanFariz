@@ -7,7 +7,7 @@ I'm Aiman, a developer and sports analyst passionate about combining technology 
 
 - 🔭 I’m currently working on <a href="https://mata-kappa.vercel.app/">Mata</a>
 - 👯 I’m looking to collaborate on sports analytics projects or any open-source projects!
-- 📫 How to reach me: Email me at aimanfarizz33gmail.com!
+- 📫 How to reach me: Email me at @aimanfarizz33gmail.com and connect with me on <a href="[https://mata-kappa.vercel.app](https://www.linkedin.com/in/aiman-akmal-hizam/)">Linkedin</a>!
 - ⚡ Fun fact: I play the violin and LOVE classical music!
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AimanFariz&count_private=true&theme=tokyonight&showicons=true)]()
