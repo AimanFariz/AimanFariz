@@ -1,6 +1,6 @@
 ###  My digital nest
 
-The University of Tulsa Presidential Scholar | Computer Science & French @ University of Tulsa
+The University of Tulsa Presidential Scholar | Computer Science & French @ The University of Tulsa
 
 Hi there 👋
 I'm Aiman, a developer and sports analyst passionate about combining technology and sports to create innovative solutions. I'm currently a sophomore at the University of Tulsa, where I have hands-on experience in sports analytics, collaborating with the TU Men's Soccer team and analyzing data from NCAA and professional sports leagues to extract meaningful insights and build visualization tools. My GitHub features a range of projects, from web applications to sports analysis tools, reflecting my dedication to learning, creativity, and attention to detail.
