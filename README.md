@@ -12,4 +12,4 @@ I'm Aiman, a developer and sports analyst passionate about combining technology 
 - ⚡ Fun fact: I play the violin but kinda suck at it (second violin for TU's Symphony Orchestra)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AimanFariz&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanfariz&langs_count=1000000000000&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanfariz&langs_count=100&theme=tokyonight)]()
