@@ -9,7 +9,6 @@ I'm Aiman, a developer and sports analyst passionate about combining technology 
 - 🗣️ Some of my sports analytics projects are compiled <a href="https://github.com/AimanFariz/Sports-Analytics">here</a>
 - 👯 I’m just a chill guy looking to collaborate on sports analytics projects or any open-source projects!
 - 📫 How to reach me: Email me at aimanfarizz33@gmail.com and connect with me on <a href="https://www.linkedin.com/in/aiman-akmal-hizam/">Linkedin</a>!
-- ⚡ Fun fact: I play the violin but kinda suck at it (second violin for TU's Symphony Orchestra)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AimanFariz&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aimanfariz&langs_count=100000000000000000000000000000&theme=tokyonight)]()
