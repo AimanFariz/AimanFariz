@@ -7,7 +7,7 @@ I'm Aiman, a developer and sports analyst passionate about combining technology 
 
 - 🔭 If you're here for the memes, it's at <a href="https://stonks-amber.vercel.app/">Stonks</a>. If you want to quickly make up excuses for any occasion, go to <a href="https://oopsiedaisy.vercel.app/">Oopsie Daisy</a>. If you wanna test your general knowledge, go to <a href="https://don-pollo-quiz.vercel.app/">Don Pollo Quiz</a>
 - 🗣️ Some of my sports analytics projects are compiled <a href="https://github.com/AimanFariz/Sports-Analytics">here</a>
-- 👯 I’m just a chill guy looking to collaborate on sports analytics projects or any open-source projects!
+- 👯 I’m looking to collaborate on sports analytics projects or any open-source projects!
 - 📫 How to reach me: Email me at aimanfarizz33@gmail.com and connect with me on <a href="https://www.linkedin.com/in/aiman-akmal-hizam/">Linkedin</a>!
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AimanFariz&count_private=true&theme=tokyonight&showicons=true)]()
